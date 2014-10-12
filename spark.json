@@ -1,6 +1,6 @@
 {
   "name": "vision",
-  "author": "Joe Goggins <joe@spark.io>",
+  "author": "YSH",
   "license": "MIT",
   "version": "0.0.10",
   "description": "A simple library that illustrates coding conventions of a Spark Library"
